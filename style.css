@@ -1,0 +1,39 @@
+body {
+    background-color: blue;
+    font-size: 16px;
+}
+
+header {
+    background-color: brown;
+    text-align:end;
+}
+
+.korni {
+    text-align: left;
+    text-rendering: optimizeLegibility;
+}
+
+
+.page-header {
+    background-color: aqua;
+}
+
+.gallery {
+    background-color: #484824;
+}
+
+.Omnie {
+    background-color: #4fd444;
+}
+
+.footer {
+    background-color: #985949;
+}
+
+nav ul {
+    text-align: right;
+}
+
+.dupa {
+    background-color: black;
+}
